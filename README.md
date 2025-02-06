@@ -37,16 +37,13 @@ I specialize in designing and deploying **scalable cloud solutions** on **Micros
 ---
 
 ### 📊 **GitHub Stats**  
-
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank-username&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-username&layout=compact&theme=tokyonight)  
+Empty
 
 ---
 
 ### 🔗 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mayank-profile)  
-[![Portfolio](https://img.shields.io/badge/Website-ff69b4?style=flat&logo=google-chrome)](https://mayank-website.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mayank-twitter)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mayank-mayank/)  
+[![Portfolio](https://img.shields.io/badge/Website-ff69b4?style=flat&logo=google-chrome)](https://mayank.bio)  
 
 ---
 
